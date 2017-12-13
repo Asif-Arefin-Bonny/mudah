@@ -24,9 +24,9 @@
 }
 
 .sprite_common_mudah_logo_general_new {
-	width: 150px;
-	height: 29px;
-	background: url("../img/common.png@a2db6e6ffc6800a8001e95af82a4fddf71d32455") no-repeat -194px -2px;
+	width: 200px;
+	height: 100px;
+	background: url("../img/logo2.png") no-repeat 0px 0px;
 }
 
 .sprite_common_alert {
