@@ -1,0 +1,241 @@
+/* 40 images in sprite, original size 863191 bytes */
+.sprite_view_mudah_logo_no_img {
+	width: 640px;
+	height: 480px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -2px -2px;
+}
+
+.sprite_view_success-icon {
+	width: 110px;
+	height: 110px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -646px -2px;
+}
+
+.sprite_view_arrow-left {
+	width: 20px;
+	height: 60px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -648px -114px;
+}
+
+.sprite_view_arrow-right {
+	width: 20px;
+	height: 60px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -648px -178px;
+}
+
+.sprite_view_icn_contact_peel1 {
+	width: 47px;
+	height: 37px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -648px -242px;
+}
+
+.sprite_view_icn_contact_peel2 {
+	width: 47px;
+	height: 37px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -648px -283px;
+}
+
+.sprite_view_calc_btn {
+	width: 105px;
+	height: 35px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -648px -324px;
+}
+
+.sprite_view_icon_fb {
+	width: 30px;
+	height: 30px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -648px -363px;
+}
+
+.sprite_view_icon_emailshare {
+	width: 30px;
+	height: 30px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -648px -397px;
+}
+
+.sprite_view_icon_google-plus {
+	width: 30px;
+	height: 30px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -648px -431px;
+}
+
+.sprite_view_icon_twitter {
+	width: 30px;
+	height: 30px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -760px -2px;
+}
+
+.sprite_view_calc_okay {
+	width: 75px;
+	height: 30px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -794px -2px;
+}
+
+.sprite_view_icon-search {
+	width: 25px;
+	height: 25px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -34px;
+}
+
+.sprite_view_diskette_blue {
+	width: 25px;
+	height: 25px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -63px;
+}
+
+.sprite_view_fav-blue {
+	width: 122px;
+	height: 24px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -873px -2px;
+}
+
+.sprite_view_fav-gray-added {
+	width: 122px;
+	height: 24px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -875px -28px;
+}
+
+.sprite_view_icn_company_seller {
+	width: 22px;
+	height: 22px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -92px;
+}
+
+.sprite_view_icn_private_seller {
+	width: 22px;
+	height: 22px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -118px;
+}
+
+.sprite_view_urgent-ad-view {
+	width: 78px;
+	height: 22px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -875px -56px;
+}
+
+.sprite_view_icn_scTwitter {
+	width: 20px;
+	height: 20px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -144px;
+}
+
+.sprite_view_icn_scGoogle {
+	width: 20px;
+	height: 20px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -168px;
+}
+
+.sprite_view_icn_scFacebook {
+	width: 20px;
+	height: 20px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -192px;
+}
+
+.sprite_view_icn_AdChat {
+	width: 20px;
+	height: 20px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -216px;
+}
+
+.sprite_view_icn_scEmail {
+	width: 20px;
+	height: 20px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -240px;
+}
+
+.sprite_view_verified_badge {
+	width: 20px;
+	height: 20px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -264px;
+}
+
+.sprite_view_ad-view-pencil-icon {
+	width: 18px;
+	height: 19px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -648px -465px;
+}
+
+.sprite_view_ad-view-calendar-icon {
+	width: 18px;
+	height: 19px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -288px;
+}
+
+.sprite_view_icn_CnChat {
+	width: 19px;
+	height: 18px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -311px;
+}
+
+.sprite_view_icn_CnEmail {
+	width: 19px;
+	height: 18px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -333px;
+}
+
+.sprite_view_icn_CnPhone {
+	width: 19px;
+	height: 18px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -355px;
+}
+
+.sprite_view_ad-view-icon-user {
+	width: 15px;
+	height: 17px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -377px;
+}
+
+.sprite_view_ad-view-mail-icon {
+	width: 23px;
+	height: 16px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -398px;
+}
+
+.sprite_view_ad-view-tag-icon {
+	width: 21px;
+	height: 14px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -418px;
+}
+
+.sprite_view_quotes-close {
+	width: 17px;
+	height: 14px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -436px;
+}
+
+.sprite_view_icn_whatsapp {
+	width: 15px;
+	height: 14px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -454px;
+}
+
+.sprite_view_quotes-open {
+	width: 17px;
+	height: 14px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -796px -34px;
+}
+
+.sprite_view_icn_delete {
+	width: 10px;
+	height: 12px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -762px -472px;
+}
+
+.sprite_view_icon_settings {
+	width: 12px;
+	height: 12px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -796px -52px;
+}
+
+.sprite_view_icn_edit {
+	width: 12px;
+	height: 12px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -796px -68px;
+}
+
+.sprite_view_icn_compare {
+	width: 11px;
+	height: 11px;
+	background: url("../img/view.png@58e94b8e5e35dc09a62e59c42cdff9b2f1838d6b") no-repeat -796px -84px;
+}
+

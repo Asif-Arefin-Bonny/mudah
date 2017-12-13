@@ -1,0 +1,49 @@
+/* 8 images in sprite, original size 8474 bytes */
+.sprite_common_icon-login {
+	width: 44px;
+	height: 46px;
+	background: url("../img/common.png@a2db6e6ffc6800a8001e95af82a4fddf71d32455") no-repeat -2px -2px;
+}
+
+.sprite_common_icon_desktop_inbox {
+	width: 44px;
+	height: 44px;
+	background: url("../img/common.png@a2db6e6ffc6800a8001e95af82a4fddf71d32455") no-repeat -50px -2px;
+}
+
+.sprite_common_icon_login {
+	width: 44px;
+	height: 44px;
+	background: url("../img/common.png@a2db6e6ffc6800a8001e95af82a4fddf71d32455") no-repeat -98px -2px;
+}
+
+.sprite_common_icon_signedin {
+	width: 44px;
+	height: 44px;
+	background: url("../img/common.png@a2db6e6ffc6800a8001e95af82a4fddf71d32455") no-repeat -146px -2px;
+}
+
+.sprite_common_mudah_logo_general_new {
+	width: 150px;
+	height: 29px;
+	background: url("../img/common.png@a2db6e6ffc6800a8001e95af82a4fddf71d32455") no-repeat -194px -2px;
+}
+
+.sprite_common_alert {
+	width: 25px;
+	height: 25px;
+	background: url("../img/common.png@a2db6e6ffc6800a8001e95af82a4fddf71d32455") no-repeat -348px -2px;
+}
+
+.sprite_common_icon_twitter {
+	width: 138px;
+	height: 23px;
+	background: url("../img/common.png@a2db6e6ffc6800a8001e95af82a4fddf71d32455") no-repeat -377px -2px;
+}
+
+.sprite_common_thumb_bottom_image {
+	width: 86px;
+	height: 7px;
+	background: url("../img/common.png@a2db6e6ffc6800a8001e95af82a4fddf71d32455") no-repeat -196px -33px;
+}
+

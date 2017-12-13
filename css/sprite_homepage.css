@@ -1,0 +1,55 @@
+/* 9 images in sprite, original size 167792 bytes */
+.sprite_homepage_deal_camera_v2 {
+	width: 136px;
+	height: 172px;
+	background: url("../img/homepage.png@79ceb8ef514df6dcc1647a5239a55a80078ce681") no-repeat -2px -2px;
+}
+
+.sprite_homepage_deal_console_v2 {
+	width: 135px;
+	height: 171px;
+	background: url("../img/homepage.png@79ceb8ef514df6dcc1647a5239a55a80078ce681") no-repeat -142px -2px;
+}
+
+.sprite_homepage_deal_chair_v2 {
+	width: 135px;
+	height: 171px;
+	background: url("../img/homepage.png@79ceb8ef514df6dcc1647a5239a55a80078ce681") no-repeat -281px -2px;
+}
+
+.sprite_homepage_deal_phone_v2 {
+	width: 135px;
+	height: 171px;
+	background: url("../img/homepage.png@79ceb8ef514df6dcc1647a5239a55a80078ce681") no-repeat -420px -2px;
+}
+
+.sprite_homepage_deal_stroller_v2 {
+	width: 135px;
+	height: 171px;
+	background: url("../img/homepage.png@79ceb8ef514df6dcc1647a5239a55a80078ce681") no-repeat -559px -2px;
+}
+
+.sprite_homepage_deal_vacuum_v2 {
+	width: 136px;
+	height: 171px;
+	background: url("../img/homepage.png@79ceb8ef514df6dcc1647a5239a55a80078ce681") no-repeat -698px -2px;
+}
+
+.sprite_homepage_get_app_v2 {
+	width: 1052px;
+	height: 115px;
+	background: url("../img/homepage.png@79ceb8ef514df6dcc1647a5239a55a80078ce681") no-repeat -838px -2px;
+}
+
+.sprite_homepage_find_title {
+	width: 220px;
+	height: 63px;
+	background: url("../img/homepage.png@79ceb8ef514df6dcc1647a5239a55a80078ce681") no-repeat -1894px -2px;
+}
+
+.sprite_homepage_mudah_button-postfreead {
+	width: 180px;
+	height: 45px;
+	background: url("../img/homepage.png@79ceb8ef514df6dcc1647a5239a55a80078ce681") no-repeat -840px -119px;
+}
+
